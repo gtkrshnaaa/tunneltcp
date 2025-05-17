@@ -1,8 +1,4 @@
-Berikut adalah dokumentasi arsitektur sistem tunnel dengan pendekatan *one tunnel = one TCP connection*, ditulis sebagai dokumentasi teknis untuk open source project.
-
----
-
-# **TunnelTCP: Static Port TCP Tunnel over VPS**
+# **tunneltcp: Static Port TCP Tunnel over VPS**
 
 ## Deskripsi
 
