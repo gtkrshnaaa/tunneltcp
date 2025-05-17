@@ -171,7 +171,8 @@ Open source, lisensi MIT. Bebas digunakan, dimodifikasi, dan disebarluaskan.
 
 ## Kontribusi
 
-Pull request dan issue dipersilakan untuk penambahan fitur, dokumentasi, atau perbaikan bug.
-Kontributor disarankan membaca `CONTRIBUTING.md` sebelum memulai.
+Saat ini repository belum sepenuhnya terbuka untuk kontribusi eksternal. Pull request dan kolaborasi dari komunitas **mungkin akan dibuka di masa mendatang**, terutama setelah fase awal pengembangan selesai.
+
+Silakan pantau perubahan pada bagian ini atau file `CONTRIBUTING.md` untuk informasi lebih lanjut. Jika bagian ini sudah diperbarui, berarti kontribusi eksternal sudah mulai diterima.
 
 ---
